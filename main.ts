@@ -1,3 +1,3 @@
-player.onChat("run", function () {
-	
+player.onChat("run", function on_on_chat() {
+    
 })
