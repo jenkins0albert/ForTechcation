@@ -13,7 +13,7 @@ agent.place(FORWARD)
 agent.destroy(FORWARD)
 agent.setItem(GRASS, 1, 1)
 agent.setSlot(1)
-agent.detect()
+
 agent.teleport(world(0, 0, 0), NORTH)
 if (true) {}
 if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS && false) {} else {}
