@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "activity.md"
+        "activity.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
